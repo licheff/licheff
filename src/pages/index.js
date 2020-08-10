@@ -35,7 +35,7 @@ const IndexPage = () => {
           </BodyText>
           <div className='resume-link'>
             <AniLink to='/resume/' cover direction='left' bg='var(--red)' duration={1}>
-              View resume
+              View résumé
             </AniLink>
           </div>
           <ContactLink />
