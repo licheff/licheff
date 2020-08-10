@@ -1,5 +1,5 @@
 const resume = {
-  title: 'Resume',
+  title: 'Résumé',
   subtitle: 'WORK EXPERIENCE',
   positions: [
     {
